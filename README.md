@@ -1,17 +1,17 @@
-Azure VNet Peering
+<h1>Azure VNet Peering</h1>
 
 In this exercise
 
 
-
+<h2>Diagram</h2>
 ![image](https://github.com/vladimirpierre/Azure_VNet_Peering/assets/63518876/b2f53ca1-54a5-491d-82bc-b0ea661593e9)
 
-<h1>SKills learned during this lab</h1>
+<h2>SKills learned during this lab</h2>
 
-- Creating virtual networks
-- Connect two virtual networks using Azure Vnet peering
-- Deploy virtual machines into each virtual network
-- Establish communication between both virtual machines 
+<ol>Creating virtual networks</ol>
+<ol>Connect two virtual networks using Azure Vnet peering</ol>
+<ol><Deploy virtual machines into each virtual network</ol>
+<ol>Establish communication between both virtual machines</ol>
 
 What is VNet Peering 
 
