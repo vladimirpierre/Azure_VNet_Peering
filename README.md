@@ -8,10 +8,10 @@ In this exercise
 
 <h2>SKills learned during this lab</h2>
 
-<ol>Creating virtual networks</ol>
-<ol>Connect two virtual networks using Azure Vnet peering</ol>
-<ol><Deploy virtual machines into each virtual network</ol>
-<ol>Establish communication between both virtual machines</ol>
+<li>Creating virtual networks</li>
+<li>Connect two virtual networks using Azure Vnet peering</li>
+<li>Deploy virtual machines into each virtual network</li>
+<li>Establish communication between both virtual machines</li>
 
 What is VNet Peering 
 
