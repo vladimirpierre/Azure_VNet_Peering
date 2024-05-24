@@ -9,7 +9,8 @@ In this exercise
 
 <h2>SKills learned during this lab</h2>
 
-<li>Creating virtual networks</li>
+<li>Creating virtual networks and subnet</li>
+<li>COnfiure DNS Settings in Azure Task</li>
 <li>Connect two virtual networks using Azure Vnet peering</li>
 <li>Deploy virtual machines into each virtual network</li>
 <li>Establish communication between both virtual machines</li>
@@ -18,6 +19,6 @@ In this exercise
 
 <h2>What is VNet Peering </h2>
 
-The traceroute command is used on Linux systems, and it is used to show how a host connects to a remote host or system on the network. It also displays the path and time the communication takes to reach the remote host. Similarly, on Windows systems, the tracert command can be used for the same purpose.
+<p>The traceroute command is used on Linux systems, and it is used to show how a host connects to a remote host or system on the network. It also displays the path and time the communication takes to reach the remote host. Similarly, on Windows systems, the tracert command can be used for the same purpose. </p>
 
 
