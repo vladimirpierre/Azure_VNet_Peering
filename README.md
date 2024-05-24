@@ -1,7 +1,9 @@
 <h1>Azure VNet Peering</h1>
 
-In this exercise
+<h2>Project Overview</h2>
 
+
+<p>In this lab, I will connect two virtual machines in two separate virtual networks in Azure. In Task 1, I will start the project off by creating the Virtual Networks and the subnets for the network. In Tsk 2, I will then Configure the DNS settings in Azure Task. In task 3, I will establish the connection of the two networks using Global VNet Peering</p>
 
 <h2>Diagram</h2>
 
@@ -9,11 +11,11 @@ In this exercise
 
 <h2>SKills learned during this lab</h2>
 
-<li>Creating virtual networks and subnet</li>
-<li>COnfiure DNS Settings in Azure Task</li>
-<li>Connect two virtual networks using Azure Vnet peering</li>
-<li>Deploy virtual machines into each virtual network</li>
-<li>Establish communication between both virtual machines</li>
+<li>Deploy a virtual networks and subnet</li>
+<li>Configure DNS Settings </li>
+<li>Azure Vnet peering</li>
+<li>Deploy virtual machines within the virtual networks</li>
+<li>Testing connectivity between both virtual machines</li>
 
 -------------------------------------------------
 
