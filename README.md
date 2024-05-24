@@ -3,7 +3,7 @@
 <h2>Project Overview</h2>
 
 
-<p>In this lab, I will connect two virtual machines in two separate virtual networks in Azure. In Task 1, I will start the project off by creating the Virtual Networks and the subnets for the network. In Tsk 2, I will then Configure the DNS settings in Azure Task. In task 3, I will establish the connection of the two networks using Global VNet Peering</p>
+<p>In this lab, I will connect two virtual machines in two separate virtual networks in Azure. In Task 1, I will start the project off by creating the Virtual Networks and the subnets for the network. In Task 2, I will then Configure the DNS settings in Azure Task. In Task 3, I will establish the connection of the two networks using Global VNet Peering</p>
 
 <h2>Diagram</h2>
 
@@ -19,8 +19,8 @@
 
 -------------------------------------------------
 
-<h2>What is VNet Peering </h2>
+<h2>What is Azure VNet Peering </h2>
 
-<p>The traceroute command is used on Linux systems, and it is used to show how a host connects to a remote host or system on the network. It also displays the path and time the communication takes to reach the remote host. Similarly, on Windows systems, the tracert command can be used for the same purpose. </p>
+<p>Azure Virtual Network Peering (VNet) peering is a technique used to securely connect two or more virtual networks using Azures network infrastructure. This will allow a solid network communication with high-bandwidth and low-latency connections. Azure Vnet peering allows you to safely share resources such as virtual machine assets, disaster recovery management, and cross-region data replication.  </p>
 
 
